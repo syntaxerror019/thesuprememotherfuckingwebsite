@@ -1,9 +1,7 @@
-from flask import Flask
+from flask import Flask, redirect
 
 app = Flask(__name__)
 
 @app.route('/')
 def home():
-    with open("page.txt", "r") as f:
-        res = file.readlines()
-    return res
+    return redirect("/static/page.txt")
