@@ -12,4 +12,4 @@ Have you forgotten?
 
 @app.route('/')
 def home():
-    return ''
+    return res
