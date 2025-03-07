@@ -9,3 +9,16 @@ WHY THIS SHIT IS THE BEST
 - This page weighs abso-fucking-lutely nothing.
 - Loads instantly and has zero shitty styling.
 - Browser does all the rendering. Fucking dark mode, fucking light mode, and all your motherfucking accessibility.
+- This entire fucking shit is under 1kb. 
+
+GUESS WHAT MOTHERFUCKER
+- This shit doesn't use your wack fucking insecure and shitty http.
+- SSL certificates auto-renew keeping your motherfucking security strong with https.
+- Well thats it. Its a fucking text file served to a motherfucking domain name.
+
+YES MOTHERFUCKER THIS SHIT IS SATIRE
+But don't go bloating your website. Minimalistic is fucking key. 
+
+WHO DID THIS SHIT
+I'm just a motherfucking developer thats fed up with the bloat and all the extra shit all these fucking developers are putting on their website. 
+You can't fucking contact me. Unless you find my motherfucking github account. This motherfucking website is so supreme I can't even fucking embed a shitty link to any of my fucking accounts- motherfucker.
