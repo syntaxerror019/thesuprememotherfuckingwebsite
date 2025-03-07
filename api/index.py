@@ -4,6 +4,6 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    with open("index.txt", "r") as f:
+    with open("page.txt", "r") as f:
         res = file.readlines()
     return res
